@@ -6,6 +6,7 @@ b=int(input("enter the value b:"))
 add=a+b
 sub=a-b
 mul=a*b
+div=a/b
 
 
 mod=a%b
@@ -15,7 +16,11 @@ pow=a**2
 print(add)
 print(sub)
 print(mul)
+
+print(div)
+
 print(mod)
 print(pow)
 
 #end of the program
+
