@@ -9,11 +9,13 @@ mul=a*b
 
 
 mod=a%b
+pow=a**2
 
 
 print(add)
 print(sub)
 print(mul)
 print(mod)
+print(pow)
 
 #end of the program
